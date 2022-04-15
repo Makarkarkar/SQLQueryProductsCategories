@@ -41,6 +41,7 @@ INSERT INTO dbo.ProductsCategories
 	(2,1),
 	(2,2),
 	(3,2),
-	(3,3)
+	(3,3),
+	(4, NULL)
 GO
 
